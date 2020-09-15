@@ -1,5 +1,4 @@
 version: 0.2
-
 phases:
   build:
     commands:
@@ -8,5 +7,3 @@ phases:
 artifacts:
   files:
     - src/HelloWorldWebCore/build_output/*
-    - appspec.yml
-    - installApp.sh
